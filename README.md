@@ -1,4 +1,4 @@
-# HangmanGame
+# HangmanGame:standing_person:
 <h3> An text-based hangman game that runs in the terminal. </h3>
 <h4> Completed: July 2023 </h4>
 
